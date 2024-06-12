@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\bankencapsulation\\bankencapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|c:\\users\\moham\\onedrive\\desktop\\repos\\bankencapsulation\\bankencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA4433-8BA8-40A9-8339-52A36F388320}|BankEncapsulation\\BankEncapsulation.csproj|solutionrelative:bankencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankEncapsulation\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\BankAccount.cs",
+              "RelativeToolTip": "BankEncapsulation\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:37:50.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "BankEncapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\Repos\\BankEncapsulation\\BankEncapsulation\\Program.cs",
+              "RelativeToolTip": "BankEncapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:37:19.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
